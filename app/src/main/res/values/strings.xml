@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickrOKHttpJsonGlide</string>
+    <string name="dummy_photo">image_photo</string>
+    <string name="dummy_name">Canada</string>
+</resources>
